@@ -21,7 +21,7 @@ Open the entertainment_center.py file. Copy and paste an instance of the Movie c
 
 Change toy_story to reflect what movie you would like to see (e.g. jurassic_park)
 Change the four parameters (in the following order) to have the title, storyline, poster image, and link to the trailer.
-So for example, a new on might look like:
+So for example, a new one might look like:
 
 ```jurassic_park = media.Movie("Jurassic Park",
                         "An Adventure 65 Million Years In The Making",
