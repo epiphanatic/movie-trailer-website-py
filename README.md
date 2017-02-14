@@ -28,3 +28,5 @@ So for example, a new one might look like:
                         "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
                         "http://www.imdb.com/video/imdb/vi177055257?playlistId=tt0107290&ref_=tt_ov_vi")```
 
+Stop the python program (ctrl+c) and restart - you should see your movie added
+
