@@ -1,19 +1,17 @@
 import media
 import fresh_tomatoes
 # since media is the file that contains all the classes, it is also the 'library'
-
-# this calls the init function in the Movie class in the media library, and requires arguments listed in it
+# following calls the init function in the Movie class in the media library that requires arguments listed
 toy_story = media.Movie("Toy Story",
                         "A Story of a boy and his toys that come to life",
                         "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
-# print (toy_story.storyline)
+
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
                      "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
-#print (avatar.storyline)
-#avatar.show_trailer()
+
 the_matrix = media.Movie("The Matrix",
                          "I took the red pill...",
                          "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
@@ -36,7 +34,4 @@ three_hundred = media.Movie("300",
 
 movies = [toy_story, avatar, the_matrix, fight_club, shawshank_redemption, three_hundred]
 
-# shawshank_redemption.show_trailer()
 fresh_tomatoes.open_movies_page(movies)
-#print (media.Movie.VALID_RATINGS)
-# print (media.Movie.__doc__)
