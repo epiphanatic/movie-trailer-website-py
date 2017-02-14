@@ -1,6 +1,14 @@
 # movie-trailer-website-py
 Python driven web site where user can see movie trailers by clicking on a movie poster image
 
+# Dependencies
+
+You must have python installed in order to start the site
+
+See instructions [here](https://classroom.udacity.com/nanodegrees/nd004/parts/0041345401/modules/356120945175460/lessons/990110642/concepts/36256587390923#) for Mac
+
+See instructions [here](https://classroom.udacity.com/nanodegrees/nd004/parts/0041345401/modules/356120945175460/lessons/990110642/concepts/36691786570923#) for Windows
+
 # Starting the site
 
 Clone this repository or download the zip file.
