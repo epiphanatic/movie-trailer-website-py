@@ -6,3 +6,7 @@ In a command line, go to the project directory on your computer and type:
 ```
 python entertainment_center.py
 ```
+# Advanced OOP points
+
+* Can use __doc__ to get project documentation
+*

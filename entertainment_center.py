@@ -37,6 +37,6 @@ three_hundred = media.Movie("300",
 movies = [toy_story, avatar, the_matrix, fight_club, shawshank_redemption, three_hundred]
 
 # shawshank_redemption.show_trailer()
-#print (media.Movie.VALID_RATINGS)
 fresh_tomatoes.open_movies_page(movies)
+#print (media.Movie.VALID_RATINGS)
 # print (media.Movie.__doc__)
